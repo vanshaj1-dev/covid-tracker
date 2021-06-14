@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+#URL--where the project is hosted and can be viewed
+
+https://covid-19-tracker-699be.web.app/
+Firebase has been used which is a hybrid database having the best features of both SQL AND NOSQL databases
+
 ## Available Scripts
 
 In the project directory, you can run:
